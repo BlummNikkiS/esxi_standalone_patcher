@@ -6,7 +6,7 @@ A simpler way is to use PyCharm, which quickly highlights and shows what needs t
 
 All you need to do is adjust the configuration file(config.ini) with the values you require, and then the patches will be applied to the ESXi hosts.
 
-
+_______________________________________________________________________________________________________________________________________________________________
 
 Этот скрипт на Python 3 помогает обновлять одиночные ESXi хосты, к которым нельзя подключиться через vCSA. Я написал этот скрипт специально из-за необходимости автоматического обновления удалённых хостов без доступа к интернету и vCSA.
 
